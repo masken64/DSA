@@ -8,5 +8,8 @@
 	            While loops			
 	            Functions (Pass by Reference and Value)			
 	            Time Complexity [Learn Basics, and then analyse in next Steps]
-             
-              
+Patterns
+STL
+Basic Maths
+Recursion (Easy)
+Hasing --
