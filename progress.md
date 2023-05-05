@@ -12,4 +12,5 @@ Patterns
 STL
 Basic Maths
 Recursion (Easy)
-Hasing --
+Hasing
+5th May - Sorting
