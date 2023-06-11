@@ -11,6 +11,4 @@
 Patterns
 STL
 Basic Maths
-Recursion (Easy)
-Hasing
-5th May - Sorting
+Recursion (Easy) 
